@@ -1,0 +1,23 @@
+Criterio,SCR n. de contratos C, SCR n. de contratos V,SCR Valorizacao em Carteira C,SCR Valorizacao em Carteira V,SCR Valorizacao em Carteira Total,FCR n. de contratos C,FCR n. de contratos V,FCR Valorizacao em Carteira C,FCR Valorizacao em Carteira V,FCR Valorizacao em Carteira Total,Total n. de contratos,Total Valorizacao em Carteira
+Multiplo,0,0,0,0,0,1,1,0,0,0,2,0
+Valor de mercado,0,0,0,0,0,1,1,13.7,174.5,188.2,2,188.2
+sem valor definido,0,0,0,0,0,0,6,0,0,0,6,0
+Avaliacao,0,21,0,691,691,5,69,-172.8,2904.2,2731.4,95,3422.4
+sem valor definido,0,12,0,0,0,77,125,0,0,0,214,0
+"Indexado a performance da empresa, com min e maximo definidos",0,1,0,87,87,0,2,0,4597.5,4597.5,3,4684.5
+sem valor definido,0,1,0,0,0,0,3,0,0,0,4,0
+Indexado a performance da empresa,0,3,0,-58.6,-58.6,0,1,0,-5.5,-5.5,4,-64.1
+sem valor definido,0,1,0,0,0,0,4,0,0,0,5,0
+Capitalizacao do valor de aquisicao (indexado a Euribor),0,1,0,45.4,45.4,0,9,0,40860.6,40860.6,10,40906
+sem valor definido,0,5,0,0,0,0,16,0,0,0,21,0
+Valor de aquisicao,0,0,0,0,0,0,0,0,0,0,0,0
+Preco fixo,0,2,0,210.2,210.2,8,8,20880.8,7815.8,28696.6,18,28906.8
+sem valor definido,0,1,0,0,0,3,8,0,0,0,12,0
+Valorizacao anual fixa,0,0,0,0,0,0,2,0,17042.9,17042.9,2,17042.9
+Contrato (define formula de calculo),0,0,0,0,0,2,37,1033.3,87.7,1121,39,1121
+sem valor definido,2,5,0,0,0,9,60,0,0,0,76,0
+Indexado aos subsidios recebidos,0,0,0,0,0,0,0,0,0,0,0,0
+"Omisso, nao identificado",0,0,0,0,0,0,2,0,0,0,2,0
+Total,2,53,0,975,975,106,354,21755,73477.7,95232.7,515,96207.7
+Numero Total de Contratos com valor definido,2,28,,,,17,131,,,,177,
+% face ao total de contratos,0,0.5283018868,,,,,,,,,,
